@@ -1,4 +1,6 @@
-**🌍 CodeAlpha Language Translation Tool – AI-Powered Multilingual Translation & Voice Assistant**
+
+# 🌍CodeAlpha Language Translation Tool - Multilingual AI Translation and Voice Assistant
+
 📌 Project Overview
 
 The CodeAlpha Language Translation Tool is an advanced AI-powered multilingual translation and voice assistant developed using Python and Streamlit. The application enables users to translate text across multiple languages, automatically detect source languages, convert speech into text, generate speech from translated content, and maintain a searchable translation history.
